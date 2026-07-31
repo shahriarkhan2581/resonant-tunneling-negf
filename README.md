@@ -42,6 +42,24 @@ The script will:
 - plot resonant-state densities,
 - plot potential profile and combined visualizations.
 
+## Results
+
+### 1) Combined: Potential Profile + Resonant-State Densities
+
+![Combined plot](figures/figure1_combined.png)
+
+### 2) Double Barrier Potential Profile
+
+![Potential profile](figures/figure2_potential.png)
+
+### 3) First and Second Resonant-State Densities
+
+![Resonant state densities](figures/figure3_resonant_densities.png)
+
+### 4) Transmission Spectrum
+
+![Transmission spectrum](figures/figure4_transmission.png)
+
 ## Notes
 
 - Transmission is computed from:
